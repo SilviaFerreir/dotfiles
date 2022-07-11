@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = silviacardoso21@gmail.com
+	name = silvia ferreira
